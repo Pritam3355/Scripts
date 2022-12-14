@@ -1,5 +1,4 @@
-# This repository contains various scripts for Backtesting strategies , Technical analysis, 
-Stock screening,Fundamental Analysis,Web scrapping
+# This repository contains various scripts for Backtesting strategies , Technical analysis, Stock screening,Fundamental Analysis,Web scrapping
 
 
 1. Historical Gold price from Indian Commodity market (without using any api)
