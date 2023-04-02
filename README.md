@@ -13,3 +13,5 @@
       2. Backtesting 1 - Mean Reversal Strategy
       
 3. Technical Analysis - Various functions from Ta-Lib library along with custom function integration 
+
+4. Managemen-Discussion-Analysis-Annual-Report-Nifty - Scrapped last 5 years Annual Report link from (Managemen-Discussion-Analysis-Annual-Report-Nifty) . Downloaded the files & Extracted Management Discussion & Analysis section for nifty-smappcap-250 ( https://www.nseindia.com/products-services/indices-niftysmallcap250-index). This script extract data for 10 companies but it can be extended to all companies under any index just comment out the part that select last 10 companies in alphabetic order (inside script)
